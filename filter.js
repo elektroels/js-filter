@@ -1,7 +1,7 @@
 /*
  * filter demo
  **/
-console.log("filterjs running\n");
+console.log("filterjs running kage\n");
 
 // tags dataset divided into categories
 var categoriesOfTags = {
